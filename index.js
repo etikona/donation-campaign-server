@@ -11,8 +11,7 @@ app.use(express.json());
 
 // Database
 
-const uri =
-  "mongodb+srv://donations:k6OpjJQAosqjov0K@cluster0.6hyeg.mongodb.net/?retryWrites=true&w=majority";
+const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.6hyeg.mongodb.net/?retryWrites=true&w=majority`;
 
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {
@@ -25,10 +24,9 @@ const client = new MongoClient(uri, {
 
 async function run() {
   try {
-    // Connect the client to the server	(optional starting in v4.7)
     await client.connect();
     const donationCollection = client.db("Donation").collection("donations");
-    // Send a ping to confirm a successful connection
+
     // All Donations
     app.get("/donations", async (req, res) => {
       const query = {};
@@ -42,6 +40,12 @@ async function run() {
       const query = { _id: new ObjectId(id) };
       const donation = await donationCollection.findOne(query);
       res.send(donation);
+    });
+    // Post a donations
+    app.post("/donation", async (req, res) => {
+      const donations = req.body;
+      const result = await donationCollection.insertOne(donations);
+      res.send(result);
     });
   } finally {
     // Ensures that the client will close when you finish/error
