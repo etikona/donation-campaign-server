@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Medical Supplies Donation",
+    "category": "Health",
+    "description": "Help provide essential medical supplies to hospitals and healthcare facilities in need. Your donation will support the purchase of personal protective equipment (PPE), medications, and medical equipment, ensuring frontline healthcare workers can continue to provide quality care to patients.",
+    "image": "https://img.freepik.com/free-photo/friends-volunteers-stack-boxes-inspection-humanitarian-aid-donations-poor_1157-46648.jpg?w=740&t=st=1707248353~exp=1707248953~hmac=0e392fe493c3d2b3ce034413083e86e6a3e0b32bf11d34f8b391dbd03f6b6698"
+  },
+  {
+    "name": "Scholarship Fund",
+    "category": "Education",
+    "description": "Support students in need by contributing to our scholarship fund. Your donation will help cover tuition fees, textbooks, and other educational expenses for deserving students who may otherwise struggle to afford higher education. Together, we can empower the next generation.",
+    "image": "https://img.freepik.com/free-photo/putting-money-coins-saving-glass-bottle-concept-investment-mutual-fund-finance-business-placed-textbook-content-money-saving-education_1150-45710.jpg?w=740&t=st=1707248456~exp=1707249056~hmac=0bf7d02ce80c7fa0c7c68ea061b6471963835161178a6bffbb44b4934bfdee2f"
+  },
+  {
+    "name": "Food Bank Assistance",
+    "category": "Food",
+    "description": "Join us in the fight against hunger by donating to our food bank assistance program. Your contribution will help provide nutritious meals to families facing food insecurity. Together, we can ensure that no one goes to bed hungry.",
+    "image": "https://img.freepik.com/free-photo/volunteers-with-gloves-handing-boxes-with-food-donation_23-2148733764.jpg?w=740&t=st=1707248569~exp=1707249169~hmac=905029ce971d0f2922ff9881e478c07766bf0132e5f0ac1bba6819b20ca0664b"
+  },
+  {
+    "name": "Warm Clothing Drive",
+    "category": "Cloth",
+    "description": "Help keep individuals warm during the cold winter months by donating to our warm clothing drive. Your support will provide coats, hats, gloves, and blankets to those in need, ensuring they stay safe and comfortable in harsh weather conditions.",
+    "image": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Emergency Medical Relief",
+    "category": "Health",
+    "description": "Support emergency medical relief efforts around the world. Your donation will help provide immediate medical assistance, including emergency medical supplies, mobile clinics, and medical personnel, to communities affected by natural disasters, conflicts, and other crises.",
+    "image": "https://img.freepik.com/free-photo/paramedics-examining-injured-girl_107420-63735.jpg?w=740&t=st=1707248745~exp=1707249345~hmac=08056a6fd94eb9622281ff4427e1498269ff1c943fb90529becf135cdb3e469c"
+  },
+  {
+    "name": "Digital Learning Initiative",
+    "category": "Education",
+    "description": "Bridge the digital divide and support remote learning with our digital learning initiative. Your contribution will help provide students with access to computers, tablets, and internet connectivity, ensuring they can continue their education remotely.",
+    "image": "https://img.freepik.com/free-photo/science-dna-research-development-human_53876-121145.jpg?w=740&t=st=1707248791~exp=1707249391~hmac=60ebc26f3ed332d6986b3df5073766cfda4f2debf3f239c5ed9df181c10e2f11"
+  },
+  {
+    "name": "Community Kitchen Project",
+    "category": "Food",
+    "description": "Join us in establishing community kitchens to provide meals to those in need. Your donation will support the setup and operation of communal cooking facilities, where volunteers will prepare and distribute hot meals to individuals and families facing food insecurity.",
+    "image": "https://img.freepik.com/free-photo/close-up-volunteer-holding-food-donations-box_23-2149196091.jpg?w=740&t=st=1707248921~exp=1707249521~hmac=9fc2b80381826628fc3373f46d92eabc70c2c4d7745ff359bb29389753379c0e"
+  },
+  {
+    "name": "Clothing Voucher Program",
+    "category": "Cloth",
+    "description": "Help individuals access essential clothing items with our clothing voucher program. Your support will provide vouchers that recipients can redeem at partnering clothing stores, allowing them to choose clothing items that best suit their needs and preferences.",
+    "image": "https://img.freepik.com/free-photo/volunteers-using-digital-tablet_1170-1802.jpg?w=740&t=st=1707248987~exp=1707249587~hmac=948c79401b376a92e00f207510f1fd2b9569c24b6939cc46394ea778ec8aeb4d"
+  },
+  {
+    "name": "Healthcare Access Initiative",
+    "category": "Health",
+    "description": "Promote healthcare access for underserved communities with our initiative. Your donation will support the establishment of community health clinics, mobile medical units, and outreach programs, ensuring everyone has access to essential healthcare services.",
+    "image": "https://img.freepik.com/free-photo/general-practitioner-talking-old-woman-wheelchair-her-husband-doing-checkup-consultation-help-with-recovery-treatment-medic-examining-patient-with-chronic-impairment_482257-51212.jpg?w=900&t=st=1707249044~exp=1707249644~hmac=a6d8035bce7699f2a052dc3663e52b203a080a14dae4add5324c46fcc85d9f3a"
+  },
+  {
+    "name": "STEM Education Program",
+    "category": "Education",
+    "description": "Inspire the next generation of innovators and problem-solvers with our STEM education program. Your contribution will fund hands-on science, technology, engineering, and mathematics (STEM) activities and workshops for students, encouraging their interest in STEM fields.",
+    "image": "https://img.freepik.com/free-photo/group-young-people-vr-glasses-doing-experiments-robotics-laboratory-robot-table_1268-24393.jpg?w=740&t=st=1707249085~exp=1707249685~hmac=9db566d9d451240100b546c6c9b6495b6c706d745c6348e618436000c5552fc8"
+  },
+  {
+    "name": "Nutrition Assistance Program",
+    "category": "Food",
+    "description": "Combat malnutrition and food insecurity with our nutrition assistance program. Your donation will support the distribution of nutritious food packages, including fresh fruits, vegetables, grains, and protein sources, to individuals and families in need.",
+    "image": "https://img.freepik.com/free-photo/nutrition-healthy-food-concept_53876-121400.jpg?w=740&t=st=1707249182~exp=1707249782~hmac=2a25a2b1d87d257ccfb7f8a38eb85b6ebb49f33c5a9084d0bd4bb4a6aef388b6"
+  },
+  {
+    "name": "Winter Clothing Drive for Children",
+    "category": "Cloth",
+    "description": "Ensure children stay warm and healthy during the winter season with our clothing drive. Your support will provide jackets, sweaters, boots, and other winter essentials to children from low-income families, helping them stay safe and comfortable.",
+    "image": "https://imgmedia.lbb.in/media/2019/11/5ddd09c236294a4669728c8f_1574767042852.jpg"
+  },
+  {
+    "name": "Mental Health Support Initiative",
+    "category": "Health",
+    "description": "Promote mental well-being and resilience with our mental health support initiative. Your donation will fund counseling services, support groups, and awareness campaigns to destigmatize mental illness and provide support to those in need of mental health assistance.",
+    "image": "https://img.freepik.com/free-photo/blonde-woman-taking-care-male-rehab-patient_23-2148398354.jpg?w=740&t=st=1707249535~exp=1707250135~hmac=b1a513ea69480a54afae5eeba42b6537d4f8807d4b424d36291b8adcfaf68edb"
+  },
+  {
+    "name": "Literacy Program",
+    "category": "Education",
+    "description": "Empower individuals with literacy skills through our literacy program. Your contribution will support literacy classes, reading materials, and educational resources for adults and children, enabling them to improve their literacy skills and access greater opportunities.",
+    "image": "https://img.freepik.com/free-photo/friends-learning-study-group_23-2149257205.jpg?w=740&t=st=1707249584~exp=1707250184~hmac=44e92b1093c2cc6035403907fefa6e344d30e3be5663e640563ba86d7cc22bd1"
+  },
+  {
+    "name": "Community Garden Project",
+    "category": "Food",
+    "description": "Promote food sustainability and community empowerment with our community garden project. Your donation will support the establishment of community gardens, where individuals can grow fresh produce, learn about gardening, and foster a sense of community.",
+    "image": "https://img.freepik.com/free-photo/gardeners-aprons-growing-plants-greenhouse-using-hose-watering-man-apron-with-splashes-water-gardening-job-concept_74855-12808.jpg?w=740&t=st=1707249629~exp=1707250229~hmac=88c7aca159725c81c91e2c720d31dd3ba529ea5b80ad28ddd974dacd81b67eb4"
+  }
+]
